@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical.PayPal", "Practical.PayPal\Practical.PayPal.csproj", "{ECC1C020-42FD-4201-8E40-728534C5DF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical.Stripe", "Practical.Stripe\Practical.Stripe.csproj", "{7B30F8CF-515F-4CFD-9FA2-AA509A1DAA3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ECC1C020-42FD-4201-8E40-728534C5DF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECC1C020-42FD-4201-8E40-728534C5DF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECC1C020-42FD-4201-8E40-728534C5DF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B30F8CF-515F-4CFD-9FA2-AA509A1DAA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B30F8CF-515F-4CFD-9FA2-AA509A1DAA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B30F8CF-515F-4CFD-9FA2-AA509A1DAA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B30F8CF-515F-4CFD-9FA2-AA509A1DAA3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
