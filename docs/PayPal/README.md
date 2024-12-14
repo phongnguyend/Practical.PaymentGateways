@@ -1,0 +1,5 @@
+- [Integrate | PayPal Standard Checkout](https://developer.paypal.com/studio/checkout/standard/integrate)
+- [Standard payments with single-page applications](https://developer.paypal.com/docs/checkout/standard/customize/single-page-app/)
+- [JavaScript SDK script configuration](https://developer.paypal.com/sdk/js/configuration/)
+- [Applications - PayPal Developer](https://developer.paypal.com/dashboard/applications/sandbox)
+- [Digital Wallets, Money Management, and More | Sandbox](https://sandbox.paypal.com/)
